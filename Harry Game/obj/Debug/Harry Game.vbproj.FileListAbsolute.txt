@@ -1,0 +1,13 @@
+U:\cs120\Harry Game\Harry Game\bin\Debug\Harry Game.exe.config
+U:\cs120\Harry Game\Harry Game\bin\Debug\Harry Game.exe
+U:\cs120\Harry Game\Harry Game\bin\Debug\Harry Game.pdb
+U:\cs120\Harry Game\Harry Game\bin\Debug\Harry Game.xml
+U:\cs120\Harry Game\Harry Game\obj\Debug\Harry_Game.Form1.resources
+U:\cs120\Harry Game\Harry Game\obj\Debug\Harry_Game.Resources.resources
+U:\cs120\Harry Game\Harry Game\obj\Debug\Harry Game.vbproj.GenerateResource.Cache
+U:\cs120\Harry Game\Harry Game\obj\Debug\Harry Game.exe
+U:\cs120\Harry Game\Harry Game\obj\Debug\Harry Game.xml
+U:\cs120\Harry Game\Harry Game\obj\Debug\Harry Game.pdb
+U:\cs120\Harry Game\Harry Game\obj\Debug\Harry_Game.Form2.resources
+U:\cs120\Harry Game\Harry Game\obj\Debug\Harry_Game.Form3.resources
+U:\cs120\Harry Game\Harry Game\obj\Debug\Harry_Game.Form4.resources
